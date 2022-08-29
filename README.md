@@ -1,4 +1,4 @@
-# standalone-codeigniter-query-builder-for-wordpress-sage-theme
+# standalone-codeigniter-query-builder-for-wordpress-sage-theme-with-direct-sage-controller-access
 
 ## API FOLDER
 
